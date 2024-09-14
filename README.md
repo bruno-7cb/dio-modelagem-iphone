@@ -1,6 +1,7 @@
 # Modelagem
 
-classDiagram    
+classDiagram
+    
     class ReprodutorMusical {
         +tocar()
         +pausar()
